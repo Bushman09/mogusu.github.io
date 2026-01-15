@@ -334,7 +334,7 @@ display: none;
 
 @media only screen and (max-width: 600px) {
   #header {
-    background-image: url("images/background.png ");
+    background-image: url("images/phone_background.png ");
     background-size: auto;
     background-position: center;
   }
@@ -381,4 +381,5 @@ nav ul .fa-regular{
   color:#61b752 ;
   margin-top:-40px ;
   display: block;
+
 }
